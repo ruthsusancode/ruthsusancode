@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Ruth!
 
-<!--
-**ruthsusancode/ruthsusancode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning web development from scratch.  
+This github contains all my coding practice, micro-projects, and progress as I grow.
 
-Here are some ideas to get you started:
+### Current Focus
+- Learning Javascript and React  
+- Building small, focused micro-projects  
+- Understanding programming fundamentals by doing real work  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Micro-Projects
+I'm tracking my hands-on projects and experiments here:
+
+👉 [My Micro-Projects Repository](https://github.com/ruthsusancode/micro-projects)  
